@@ -1,0 +1,12 @@
+body{
+    background-color: blanchedalmond;
+    text-align: center;
+
+}
+#demo{
+    color:brown;
+    text-align: center;
+    border-style: solid;
+    font-size: x-large;
+    border-width: 20px;
+}
